@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript/reactJS**
 
-- 👨‍💻 All of my projects are available at [here](nostam.vercel.app)
+- 👨‍💻 All of my projects are available at [here](https://nostam.vercel.app)
 
 - ⚡ Fun fact: I 💗 manga and anime
 
