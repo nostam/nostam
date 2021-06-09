@@ -1169,13 +1169,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.89167899162646" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="267.89167899162646" y="0" width="88.50405880370747" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="356.3957377953339" y="0" width="71.5808764846027" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.9766142799366" y="0" width="22.90993082837292" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="450.8865451083095" y="0" width="6.594941370516981" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.48148647882647" y="0" width="1.303087598036028" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.7845740768625" y="0" width="1.215425923137459" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.77029778874487" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="267.77029778874487" y="0" width="88.63978662066872" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="356.4100844094136" y="0" width="71.61687549411849" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="428.0269599035321" y="0" width="22.873912939316263" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="450.9008728428484" y="0" width="6.584573121551153" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.4854459643995" y="0" width="1.3010389465194092" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.7864849109189" y="0" width="1.2135150890810795" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1185,8 +1185,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>1.67 MB</div>
-                                <div>58.24%</div>
+                                <div>1.68 MB</div>
+                                <div>58.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1195,8 +1195,8 @@
                       CSS
                     </div>
                             <small>
-                                <div>447 kB</div>
-                                <div>15.56%</div>
+                                <div>448 kB</div>
+                                <div>15.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1227,8 +1227,8 @@
                       HTML
                     </div>
                             <small>
-                                <div>553 kB</div>
-                                <div>19.24%</div>
+                                <div>554 kB</div>
+                                <div>19.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1238,7 +1238,7 @@
                     </div>
                             <small>
                                 <div>143 kB</div>
-                                <div>4.98%</div>
+                                <div>4.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1262,7 +1262,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 63.4 characters per line of code written</li>
+                        <li>Has approximately 64.0 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1367,8 +1367,8 @@
               18
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1408,8 +1408,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">1</span>
-                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
